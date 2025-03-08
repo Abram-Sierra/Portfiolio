@@ -2,4 +2,4 @@
 
 Portfolio Picture Slideshow
 
-Here is my portfolio slideshow depicting a few projects I've worked on.
+Here is my portfolio slideshow depicting a few projects I've worked on. Included are a 
